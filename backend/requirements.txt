@@ -1,0 +1,6 @@
+fastapi
+pytest
+sqlalchemy
+google-genai
+uvicorn
+python-dotenv
